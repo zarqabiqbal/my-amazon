@@ -23,7 +23,13 @@ const my_style = makeStyles({
     flexGrow: 1,
   },
   footer: {
+    marginTop: 20,
+    marginBottom: 10,
     textAlign: 'center',
+  },
+  section: {
+    marginTop: 10,
+    marginBottom: 10,
   },
 });
 
